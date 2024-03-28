@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/eldanaomusova/Desktop/flutter-learning/flutter/dev/benchmarks/multiple_flutters/module/.android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17310680064963192918.xml:2:13-83
+INJECTED from /Users/eldanaomusova/Desktop/flutter-learning/flutter/dev/benchmarks/multiple_flutters/module/.android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17310680064963192918.xml:2:13-83
+INJECTED from /Users/eldanaomusova/Desktop/flutter-learning/flutter/dev/benchmarks/multiple_flutters/module/.android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17310680064963192918.xml:2:13-83
+	package
+		INJECTED from /Users/eldanaomusova/Desktop/flutter-learning/flutter/dev/benchmarks/multiple_flutters/module/.android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17310680064963192918.xml
+		ADDED from /Users/eldanaomusova/Desktop/flutter-learning/flutter/dev/benchmarks/multiple_flutters/module/.android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17310680064963192918.xml:2:13-83
+		INJECTED from /Users/eldanaomusova/Desktop/flutter-learning/flutter/dev/benchmarks/multiple_flutters/module/.android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17310680064963192918.xml
+	xmlns:android
+		ADDED from /Users/eldanaomusova/Desktop/flutter-learning/flutter/dev/benchmarks/multiple_flutters/module/.android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17310680064963192918.xml:2:23-81
+uses-sdk
+INJECTED from /Users/eldanaomusova/Desktop/flutter-learning/flutter/dev/benchmarks/multiple_flutters/module/.android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17310680064963192918.xml reason: use-sdk injection requested
+INJECTED from /Users/eldanaomusova/Desktop/flutter-learning/flutter/dev/benchmarks/multiple_flutters/module/.android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17310680064963192918.xml
+INJECTED from /Users/eldanaomusova/Desktop/flutter-learning/flutter/dev/benchmarks/multiple_flutters/module/.android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17310680064963192918.xml
+INJECTED from /Users/eldanaomusova/Desktop/flutter-learning/flutter/dev/benchmarks/multiple_flutters/module/.android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17310680064963192918.xml
+INJECTED from /Users/eldanaomusova/Desktop/flutter-learning/flutter/dev/benchmarks/multiple_flutters/module/.android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17310680064963192918.xml
+	android:targetSdkVersion
+		INJECTED from /Users/eldanaomusova/Desktop/flutter-learning/flutter/dev/benchmarks/multiple_flutters/module/.android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17310680064963192918.xml
+		ADDED from /Users/eldanaomusova/Desktop/flutter-learning/flutter/dev/benchmarks/multiple_flutters/module/.android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17310680064963192918.xml
+		INJECTED from /Users/eldanaomusova/Desktop/flutter-learning/flutter/dev/benchmarks/multiple_flutters/module/.android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17310680064963192918.xml
+	android:minSdkVersion
+		INJECTED from /Users/eldanaomusova/Desktop/flutter-learning/flutter/dev/benchmarks/multiple_flutters/module/.android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17310680064963192918.xml
+		ADDED from /Users/eldanaomusova/Desktop/flutter-learning/flutter/dev/benchmarks/multiple_flutters/module/.android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17310680064963192918.xml
+		INJECTED from /Users/eldanaomusova/Desktop/flutter-learning/flutter/dev/benchmarks/multiple_flutters/module/.android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17310680064963192918.xml

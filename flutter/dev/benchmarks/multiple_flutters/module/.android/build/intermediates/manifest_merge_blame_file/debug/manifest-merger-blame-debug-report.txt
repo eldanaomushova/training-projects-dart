@@ -1,0 +1,11 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.multiple_flutters_module" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="19"
+6-->/Users/eldanaomusova/Desktop/flutter-learning/flutter/dev/benchmarks/multiple_flutters/module/.android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17310680064963192918.xml
+7        android:targetSdkVersion="19" />
+7-->/Users/eldanaomusova/Desktop/flutter-learning/flutter/dev/benchmarks/multiple_flutters/module/.android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest17310680064963192918.xml
+8
+9</manifest>
